@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "Lipstick",
+    "price": 19.99,
+    "description": "Long-lasting lipstick",
+    "image": "/images/lipstick.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Foundation",
+    "price": 29.99,
+    "description": "Full coverage foundation",
+    "image": "/images/foundation.webp"
+  },
+  {
+    "id": 3,
+    "name": "EyeLiner",
+    "price": 19.99,
+    "description": "Water Proof",
+    "image": "/images/liquid-eyeliner.jpg"
+  },
+  {
+    "id": 4,
+    "name": "NailPolish",
+    "price": 19.99,
+    "description": "Thickest",
+    "image": "/images/nailpolish.jpg"
+  },
+  {
+    "id": 5,
+    "name": "faceSerum",
+    "price": 19.99,
+    "description": "Long-lasting lipstick",
+    "image": "/images/faceserum.webp"
+    
+  },
+  {
+    "id": 6,
+    "name": "faceWash",
+    "price": 19.99,
+    "description": "Long-lasting lipstick",
+    "image": "/images/faceWash.webp"
+    
+  },
+  {
+    "id": 7,
+    "name": "faceSrub",
+    "price": 19.99,
+    "description": "Long-lasting lipstick",
+    "image": "/images/facescrub.jpg"
+    
+  },
+  {
+    "id": 8,
+    "name": "Charcoal Mask",
+    "price": 19.99,
+    "description": "Long-lasting lipstick",
+    "image": "/images/charcol.webp"
+    
+  },
+  {
+    "id": 9,
+    "name": "Matte Lipstick",
+    "price": 19.99,
+    "description": "Long-lasting lipstick",
+    "image": "/images/liqlip.webp"
+    
+  },
+  {
+    "id": 10,
+    "name": "Strobe Cream",
+    "price": 19.99,
+    "description": "Long-lasting lipstick",
+    "image": "/images/strobe.webp"
+    
+  },
+  {
+    "id": 11,
+    "name": "Compact Powder",
+    "price": 19.99,
+    "description": "Long-lasting lipstick",
+    "image": "/images/compact.webp"
+    
+  },
+  {
+    "id": 12,
+    "name": "Mascara",
+    "price": 19.99,
+    "description": "Long-lasting lipstick",
+    "image": "/images/mascara.jpg"
+    
+  }
+]
